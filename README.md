@@ -1,2 +1,2 @@
 # web-development
-This is file of development.
+This file is of development.
